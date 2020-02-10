@@ -1,0 +1,4 @@
+:RESTART
+Binbot.exe
+TIMEOUT 1
+goto :RESTART
