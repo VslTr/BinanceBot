@@ -1,5 +1,5 @@
 api-test
     API Key:
-    7fHsbA1VufcYeVnw1vdSnWMJzSg6ntbytKrorQIa2wxuJ2xwy7ChtuMmNKRTQHfG
+    7fHsbA1Vu..............................................
     Secret Key:
-    wIYafKxeKYCmI3PglpRgEBnihEu2KS77O3RqJwkZY29orJ8C22SdW6GN5GJiDOf2
+    wIYafKx.....................................................
